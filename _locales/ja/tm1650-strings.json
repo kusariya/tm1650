@@ -1,0 +1,14 @@
+{
+	"TM1650|block": "4桁表示ディスプレイ",
+	"{id:category}TM1650": "4桁表示ディスプレイ",
+  "TM1650.on|block": "電源ON",
+  "TM1650.off|block": "電源OFF",
+  "TM1650.clear|block": "表示クリア",  
+  "TM1650.digit|block": "%num| を %bit|桁目に表示する",
+  "TM1650.showNumber|block": "数値(%num|)を表示する",
+  "TM1650.showSring|block": "文字列(%str|)を表示する",
+  "TM1650.showRunging|block": "文字列(%str|)を %del|ミリ秒でスクロール表示する",
+  "TM1650.showHex|block": "Hex(%num|)を表示する",
+  "TM1650.showDpAt|block": "show dot point %bit|show %num",
+  "TM1650.setIntensity|block": "set intensity %dat" 
+}
