@@ -1,9 +1,9 @@
 {
 	"TM1650|block": "4桁表示ディスプレイ",
 	"{id:category}TM1650": "4桁表示ディスプレイ",
-  "TM1650.on|block": "電源ON",
-  "TM1650.off|block": "電源OFF",
-  "TM1650.clear|block": "表示クリア",  
+  "TM1650.on|block": "4桁ディスプレイ(IIC:SCL/SDA)の電源をON",
+  "TM1650.off|block": "4桁ディスプレイの電源をOFF",
+  "TM1650.clear|block": "4桁ディスプレイの表示をクリア",  
   "TM1650.digit|block": "%num| を %bit|桁目に表示する",
   "TM1650.showNumber|block": "数値(%num|)を表示する",
   "TM1650.showSring|block": "文字列(%str|)を表示する",
